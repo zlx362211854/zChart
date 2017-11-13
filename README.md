@@ -36,4 +36,4 @@
 
 >效果
 
- ![image](https://github.com/zlx362211854/zChart/tree/master/static/examp.png)
+ ![image](https://github.com/zlx362211854/zChart/static/examp.png)
